@@ -58,5 +58,3 @@ Redosled pokretanja komponenti:
 5. /writer/handler.py
 
 ---
-
-*Autori: Nikola Medić i Dušan Ivić (Jun 2022)*
